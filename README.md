@@ -15,7 +15,7 @@ across 4 West African countries (Burkina Faso,
 Côte d'Ivoire, Bénin, Mali) in 2025.
 
 ## Author
-**Bezo Franck Darel Salomon Kienou**
+**Bezo Franck Darel Salomon KIENOU**
 - Applied Mathematics — Université Thomas Sankara
 - Country Commercial Director — Schoolap West Africa
 
