@@ -58,4 +58,4 @@ and portfolio purposes only.
 ## Connect
 - LinkedIn : [Bezo Franck Darel Salomon Kienou]
 - GitHub : github.com/BFranckDarelSK
-- Email : franckienou@gmail.com
+  
