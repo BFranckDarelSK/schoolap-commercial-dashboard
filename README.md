@@ -17,7 +17,7 @@ Côte d'Ivoire, Bénin, Mali) in 2025.
 ## Author
 **Bezo Franck Darel Salomon KIENOU**
 - Applied Mathematics — Université Thomas Sankara
-- Country Commercial Director — Schoolap West Africa
+- Country Commercial Director — SCHOOLAP BURKINA
 
 ## Motivation
 As Country Commercial Director at Schoolap,
